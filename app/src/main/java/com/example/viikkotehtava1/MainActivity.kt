@@ -32,7 +32,7 @@ fun HomeScreen(modifier: Modifier = Modifier) {
 
     var taskList by remember { mutableStateOf(mockTasks) }
 
-    //Filtteri, null = kaikki taskit, fale = tekemättömät, true = tehdyt
+    //Filtteri, null = kaikki taskit, false=tekemättömät, true = tehdyt
     var filterDone by remember { mutableStateOf<Boolean?>(null) }
 
     val visibleList = when (filterDone) {
