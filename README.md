@@ -15,7 +15,6 @@ Yksinkertainen Android-sovellus, jossa voit:
 
 ## Teknologiat
 - Kotlin
-- Jetpack Compose
 - Android Studio
 
 ## Asennus ja ajaminen
