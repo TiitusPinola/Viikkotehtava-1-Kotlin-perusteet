@@ -19,10 +19,8 @@ Yksinkertainen Android-sovellus, jossa voit:
 - Android Studio
 
 ## Asennus ja ajaminen
-1. Kloonaa projekti:
-```bash
-git clone <repo-osoite>
+1. Kloonaa projekti
 
-2.Avaa Android Studiossa
+2. Avaa Android Studiossa
 
-3.Rakenna ja aja sovellus emulaattorissa tai laitteessa
+3. Rakenna ja aja sovellus emulaattorissa tai laitteessa
